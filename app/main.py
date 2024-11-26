@@ -10,6 +10,8 @@ from app.models.advogado import Advogado
 from app.models.cliente import Cliente
 from app.models.prestacao_servico import PrestacaoServico
 
+#A Atividade está incompleta.
+
 
 engenheiro = Engenheiro("123", "111-111-11", "16-954-890",
                          "909.764.985", Setor.ENGENHARIA.nome, 4500, "02/04/2006",
